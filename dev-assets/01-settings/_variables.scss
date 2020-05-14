@@ -1,0 +1,44 @@
+// Kolory
+$white: #FFF;
+$black: #000000; 
+$gray-light: #F9FBFE;
+$gray-dark: #444444;
+$dark-blue: #000033;
+$blue-dark: #3E5CC5;
+$navy-blue: #001a33;
+$blue-light: #D3EAFA;
+$dark-gray: #1a1a1a;
+$blue-text: #3B99E1;
+$blue: #004280;
+$green: #60DC64;
+
+$gray-text: #4d4d4d;
+$light-blue: #1a75ff;
+
+$blue-gradient: linear-gradient(45deg, #3E5CC5 0%, #5B8AF8 100%);
+
+// Tekst
+$font-size-base: 1rem;
+$font-size-1: $font-size-base * 3;
+$font-size-2: $font-size-base * 1.5;
+$font-size-3: $font-size-base * 1.125;
+$font-size-4: $font-size-base * 1;
+$font-size-5: $font-size-base * .875;
+$font-size-6: $font-size-base * .75;
+$font-size-7: $font-size-base * .625;
+
+$line-height-base: 1.5;
+$line-height-sm: 1.2;
+$line-height-lg: 1.8;
+
+// Siatka
+$grid-base: 10px;
+$gutter: $grid-base * 1.5;
+
+// Zaokroglenia
+$border-radius: $grid-base * .5;
+
+// Breakpoint
+
+$bp-medium: '800px';
+$bp-large: '1200px';
